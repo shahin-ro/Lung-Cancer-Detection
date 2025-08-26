@@ -4,7 +4,7 @@ A deep learning system for classifying lung cancer from CT scans using
 CNN and Xception transfer learning. 📊 Clones dataset from GitHub,
 preprocesses images, trains a 4-class model (normal, adenocarcinoma,
 large cell, squamous cell), and predicts with visualizations. 🚀 Ideal
-for medical image analysis! (349 characters)
+for medical image analysis!
 
 ## 📋 Overview
 
